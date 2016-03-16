@@ -1,3 +1,3 @@
 # ex2
-This is [an example](http://www.example.com/) inline link.
+[ex2](http://www.example.com/) inline link.
 
