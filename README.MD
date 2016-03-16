@@ -1,2 +1,3 @@
 # ex2
-[click here](http://google.com)
+This is [an example](http://www.example.com/) inline link.
+
