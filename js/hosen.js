@@ -1,8 +1,8 @@
 var app = angular.module("hosen",['ngRoute']);
 
-app.controller('formCtr',function($scope){
+app.controller('submitCtr',function($scope){
     
-    $scope.message=function(){
+    $scope.ok=function(){
         
       alert("thanks you for sending");  
         
