@@ -1,3 +1,3 @@
-# ex2
-[ex2](http://www.example.com/) inline link.
+The Link is Here : -
+[website](http://hosenja-ex2.azurewebsites.net/#/) click here.
 
